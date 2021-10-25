@@ -16,7 +16,7 @@ export function MovieList() {
   }
   return (
     <div>
-      <div className="row mx-0 my-3 mb-5 mb-md-5">
+      <div className="row mx-0 my-3 mb-4 mb-md-5">
         <div className="col-12 px-0" style={{ position: "relative" }}>
           <Carousel
             draggable={true}
